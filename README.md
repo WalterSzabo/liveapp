@@ -14,3 +14,5 @@ liveApp is a responsive Skin/Theme and JS Framework for Twitter Bootstrap Framew
 ## Included
 * CSS-Reset
 * Angular CSS-Hacks
+* Google Material Icon-Set
+* Google Roboto, Nunito Fonts
